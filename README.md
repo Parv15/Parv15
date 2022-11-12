@@ -17,7 +17,7 @@ other than academics i love to Swim and listen Music.
 ## Projects
 ----------
 1. Portfolio Website
-2. Food delivery app
+2. Food delivery Website 
 
 ## Hobbies
 ----------
