@@ -6,7 +6,7 @@ other than academics i love to Swim and listen Music.
 ## Currently learning
 ----------
 1. React
-2. SQLite 3
+2. SQLite
 3. Data Structure
 ## Skills
 ----------
@@ -21,9 +21,9 @@ other than academics i love to Swim and listen Music.
 
 ## Hobbies
 ----------
-1. Non-fiction reading.
-2. Coding.
-3. Playing Badminton.
+1. Non-fiction reading
+2. Coding
+3. Playing Badminton
 
 
 
